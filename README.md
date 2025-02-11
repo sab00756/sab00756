@@ -9,19 +9,13 @@
 ### 🌟 About Me:
 - 📚 I'm currently pursuing my Master's in Computer Science at **Illinois Tech**.
 - 🧠 Passionate about **AI, ML, and Data Science**.
-- 💡 I love working on **Vision Transformers (ViT), NLP, and LLMs**.
 - 🎓 I have experience in **Algorithm Design, Dynamic Programming, and Database Architecture**.
 - 🚀 Always excited to learn new technologies and build innovative solutions!
 
 ---
 
-### 👨‍💻 Work Experience:
-- **SAP BASIS Analyst | SAP Consultant Intern** @ Kaar Technologies
-- **Intern | Embedded Design with IoT**
 
----
-
-### 🌀 Research & Projects:
+### 🌀 Recent Research & Projects:
 #### **1. Vision Transformers (ViT) for Sign Language Detection**
 - Using **ViTs** to improve sign language recognition and classification.
 - Working with **TensorFlow** and **MediaPipe**.
@@ -45,14 +39,6 @@
 - **Databases:** SQL, Database Architecture
 - **Software Tools:** Docker, WSL, Jupyter Notebook, PythonAnywhere
 - **Other:** Problem-Solving, Code Optimization, NLP, Embedded Systems
-
----
-
-### 📚 Courses:
-- **Machine Learning & Deep Learning**
-- **Database Organization**
-- **Introduction to Algorithms (CS430)**
-- **Science of Programming (CS536)**
 
 
 ---

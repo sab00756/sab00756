@@ -32,7 +32,7 @@
 ---
 
 ### 🔧 Skills & Tech Stack:
-<img src="https://github.com/sab00756/sab00756/blob/main/images/python.png">
+<img size = 0.5 src="https://github.com/sab00756/sab00756/blob/main/images/python.png">
 
 
 

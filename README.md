@@ -32,7 +32,7 @@
 ---
 
 ### 🔧 Skills & Tech Stack:
-| <img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/python.png"> | <img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/C%2B%2B.png"> | <img width="30" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/C.png"> | <img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/java.png"> |<img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/java-script.png"> |<img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/HTML.png"> |
+| <img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/python.png"> | <img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/C%2B%2B.png"> | <img width="30" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/C.png"> | <img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/java.png"> |<img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/java-script.png"> |<img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/html.png"> |
 | -------- | -------- | -------- |-------- |-------- |-------- |
 
 

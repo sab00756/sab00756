@@ -1,7 +1,6 @@
 ### Hi there! I'm Aravind Balaji Srinivasan 👋
 
 **MS in Computer Science @ Illinois Institute of Technology**  
-**GPA: 4.0**  
 **Aspiring AI/ML/Data Science Engineer**  
 
 ---

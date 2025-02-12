@@ -1,10 +1,5 @@
 ### Hi there! I'm Aravind Balaji Srinivasan 👋
 
-**MS in Computer Science @ Illinois Institute of Technology**  
-**Aspiring AI/ML/Data Science Engineer**  
-
----
-
 ### 🌟 About Me:
 - 📚 I'm currently pursuing my Master's in Computer Science at **Illinois Tech**.
 - 🧠 Passionate about **AI, ML, and Data Science**.
@@ -14,22 +9,6 @@
 ---
 
 
-### 🌀 Recent Research & Projects:
-#### **1. Vision Transformers (ViT) for Sign Language Detection**
-- Using **ViTs** to improve sign language recognition and classification.
-- Working with **TensorFlow** and **MediaPipe**.
-
-#### **2. Data-Efficient Image Transformer (DeiT)**
-- Comparing **DeiT** vs **ViT** in terms of efficiency and performance.
-- Research paper in progress with **Vignesh Ram Ramesh Kutti**.
-
-#### **3. Sign Language Detection using CNNs**
-- Leveraging **Convolutional Neural Networks (CNNs)** for hand sign prediction.
-- Implemented using **MediaPipe** and **Deep Learning frameworks**.
-
-
-
----
 
 ### 🔧 Skills & Tech Stack:
 #### Languages :
@@ -50,7 +29,22 @@
 | -------- | -------- | -------- |
 
 
+### 🌀 Recent Research & Projects:
+#### **1. Vision Transformers (ViT) for Sign Language Detection**
+- Using **ViTs** to improve sign language recognition and classification.
+- Working with **TensorFlow** and **MediaPipe**.
 
+#### **2. Data-Efficient Image Transformer (DeiT)**
+- Comparing **DeiT** vs **ViT** in terms of efficiency and performance.
+- Research paper in progress with **Vignesh Ram Ramesh Kutti**.
+
+#### **3. Sign Language Detection using CNNs**
+- Leveraging **Convolutional Neural Networks (CNNs)** for hand sign prediction.
+- Implemented using **MediaPipe** and **Deep Learning frameworks**.
+
+
+
+---
 
 
 ---

@@ -41,13 +41,6 @@
 - **Other:** Problem-Solving, Code Optimization, NLP, Embedded Systems
 
 
-| <img src="[![image](https://github.com/user-attachments/assets/a8d6f570-0703-4e8f-9ebd-ae2cb8feb557)](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)" /> | <img src="[https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)" /> |  <img src="[https://img.shields.io/badge/Langchain-607341?style=for-the-badge&logo=Derivative&logoColor=black](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png)"/> |
-|<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" /> |<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">| -------- |
-|  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Derivative&logoColor=black"/>   |   <img src="https://img.shields.io/badge/HuggingFace-FFFF00?style=for-the-badge&logo=Derivative&logoColor=black"/>   |  <img src="https://img.shields.io/badge/Transformers-00FFFF?style=for-the-badge&logo=Derivative&logoColor=white"/>   |
-|  <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />   | <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />   | <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />   |
-| <img src="https://img.shields.io/badge/OpenAI-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />   | <img src="https://img.shields.io/badge/TensorRT-1ED43C?style=for-the-badge&logo=Derivative&logoColor=white"/>   |  <img src="https://img.shields.io/badge/ONNX-6d6e70?style=for-the-badge&logo=Derivative&logoColor=white"/>  |
-| <img src="https://img.shields.io/badge/Librosa-d11baa?style=for-the-badge&logo=Derivative&logoColor=white"/> | <img src="https://img.shields.io/badge/NCNN-cfc513?style=for-the-badge&logo=Derivative&logoColor=white"/>  | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />  |
-
 
 
 

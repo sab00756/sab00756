@@ -32,12 +32,21 @@
 ---
 
 ### 🔧 Skills & Tech Stack:
-- **Programming:** Python, C, C++, Java, JavaScript
-- **AI/ML:** TensorFlow, Keras, PyTorch, OpenCV, MediaPipe
-- **Web Development:** Angular, Flask, HTML, CSS, JavaScript, SAPUI5
-- **Databases:** SQL, Database Architecture
-- **Software Tools:** Docker, WSL, Jupyter Notebook, PythonAnywhere
-- **Other:** Problem-Solving, Code Optimization, NLP, Embedded Systems
+#### Languages :
+| <img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/python.png"> | <img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/C%2B%2B.png"> | <img width="47" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/C.png"> | <img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/java.png"> |<img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/java-script.png"> |<img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/html.png"> |
+| -------- | -------- | -------- |-------- |-------- |-------- |
+
+#### AI/ML stack:
+
+| <img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/TensorFlow_logo.png"> | <img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/keras.png"> | <img width="47" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/opencv.png"> | <img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/pytorch.png"> |
+| -------- | -------- | -------- |-------- |
+
+### #WeB and DB stack:
+
+| <img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/Angular.png"> | <img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/flask.png"> | 
+| -------- | -------- |
+| <img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/Angular.png"> | <img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/flask.png"> | <img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/flask.png"> | 
+| -------- | -------- | -------- |
 
 
 

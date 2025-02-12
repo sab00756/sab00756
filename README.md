@@ -32,12 +32,7 @@
 ---
 
 ### 🔧 Skills & Tech Stack:
-- **Programming:** Python, C, C++, Java, JavaScript
-- **AI/ML:** TensorFlow, Keras, PyTorch, OpenCV, MediaPipe
-- **Web Development:** Angular, Flask, HTML, CSS, JavaScript, SAPUI5
-- **Databases:** SQL, Database Architecture
-- **Software Tools:** Docker, WSL, Jupyter Notebook, PythonAnywhere
-- **Other:** Problem-Solving, Code Optimization, NLP, Embedded Systems
+<img src="https://github.com/sab00756/sab00756/blob/main/images/python.png">
 
 
 

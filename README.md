@@ -45,7 +45,8 @@
 
 | <img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/Angular.png"> | <img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/flask.png"> | 
 | -------- | -------- |
-| <img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/Angular.png"> | <img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/flask.png"> | <img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/flask.png"> | 
+
+| <img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/mysql.png"> | <img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/pg.png"> | <img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/mongodb.png"> | 
 | -------- | -------- | -------- |
 
 

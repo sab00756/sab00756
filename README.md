@@ -32,7 +32,9 @@
 ---
 
 ### 🔧 Skills & Tech Stack:
-<img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/python.png"><img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/C%2B%2B.png">|<img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/C.png">
+<p>
+<img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/python.png"><img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/C%2B%2B.png"><img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/C.png">
+</p>
 
 
 

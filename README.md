@@ -38,12 +38,12 @@
 
 #### AI/ML stack:
 
-| <img width="80" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/TensorFlow_logo.png"> | <img width="80" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/keras.png"> | <img width="47" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/opencv.png"> | <img width="80" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/pytorch.png"> |
+| <img width="80" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/TensorFlow_logo.png"> | <img width="80" height="35" src="https://github.com/sab00756/sab00756/blob/main/images/keras.png"> | <img width="47" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/opencv.png"> | <img width="80" height="35" src="https://github.com/sab00756/sab00756/blob/main/images/pytorch.png"> |
 | -------- | -------- | -------- |-------- |
 
 #### WeB and DB stack:
 
-| <img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/Angular.png"> | <img width="80" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/flask.png"> | 
+| <img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/Angular.png"> | <img width="90" height="40" src="https://github.com/sab00756/sab00756/blob/main/images/flask.png"> | 
 | -------- | -------- |
 
 | <img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/mysql.png"> | <img width="50" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/pg.png"> | <img width="80" height="50" src="https://github.com/sab00756/sab00756/blob/main/images/mongodb.png"> | 
